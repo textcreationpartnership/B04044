@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lilly's strange and wonderful prophecy being a relation of many universal accidents that will come to pass in the year 1681. According to the prognostications of the celestial bodies, as well in this our English nation, as in parts beyond the seas : with a sober caution to all by speedy repentance to avert the judgments that are impendent. As likewise a strange and wonderful discovery at a place called Leek, in Stafford-shire : by men digging in the earth for stones to pave two streets, where they found a pavement of smooth stone, several pots of ashes and mens bones ... as also an account of the great stream of light, by some termed a blazing-star, which was seen in the south-west on Saturday and Sunday the 11th and 12th of this instant December, between six and seven in the evening, with sever judicial opinions and conjectures upon the same.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04044</idno><idno type="EEBO-CITATION">53981676</idno>
+  <idno type="VID">180272</idno>
+  <idno type="EEBO-PROQUEST">2240866276</idno>
+  
+            <idno type="STC">Wing L2247</idno>
+            <idno type="STC">ESTC R179726</idno>
+            <idno type="OCLC">53981676</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04044)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180272)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2824:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lilly's strange and wonderful prophecy being a relation of many universal accidents that will come to pass in the year 1681. According to the prognostications of the celestial bodies, as well in this our English nation, as in parts beyond the seas : with a sober caution to all by speedy repentance to avert the judgments that are impendent. As likewise a strange and wonderful discovery at a place called Leek, in Stafford-shire : by men digging in the earth for stones to pave two streets, where they found a pavement of smooth stone, several pots of ashes and mens bones ... as also an account of the great stream of light, by some termed a blazing-star, which was seen in the south-west on Saturday and Sunday the 11th and 12th of this instant December, between six and seven in the evening, with sever judicial opinions and conjectures upon the same.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for P. Brooksby, in VVest-smithfield,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Great Britain --  History --  Prophecies --  Early works to 1800.</term>
+               <term type="topical_term">Omens --  England --  Early works to 1800.</term>
+               <term type="topical_term">Astrology, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180272:1"/>
+            <p>LILLY'S Strange and Wonderful PROPHECY: Being a Relation of many Universal Accidents that will come to pass in the YEAR 1681.</p>
+            <p>According to the Prognostications of the Celestial Bo<g ref="char:EOLhyphen"/>dies, as well in this our <hi>English</hi> Nation, as in parts be<g ref="char:EOLhyphen"/>yond the Seas: With a sober Caution to all by spee<g ref="char:EOLhyphen"/>dy Repentance to avert the Judgements that are Impendent.</p>
+            <p>As likewise a strange and Wonderful Dis<g ref="char:EOLhyphen"/>covery at a place called <hi>LEEK,</hi> in <hi>Stafford-shire;</hi> By Men Digging in the Earth for Stones to pave two Streets, where they found a pavement of smooth Stone, several Pots full of Ashes and Mens Bones; and under a Grave-stone a pot of Oyl sweeter then Perfume, in which was a Parchment containing a Wonder<g ref="char:EOLhyphen"/>ful Prophecy, directing them to dig 40 Arms deep, and they should find inestimable Treasure, it having been preserved about 500 Y. and subscribed <hi>Anselem,</hi> with many strange things contain'd in it.</p>
+            <p>As also an Account of the Great Stream of LIGHT, By some termed a <hi>BLAZING-STAR;</hi> Which was seen in the <hi>South-West</hi> on <hi>Saturday</hi> and <hi>Sunday</hi> the 11th. and 12th. of this Instant <hi>December,</hi> between Six and Seven in the Evening; With several Judicial Opinions and conjectures upon the same.</p>
+            <p>Printed for P. <hi>Brooksby,</hi> in <hi>VVest-smithfield,</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180272:2"/>
+            <pb n="1" facs="tcp:180272:2"/>
+            <head>
+               <hi>Lilly</hi>'s Strange and Wonderful Pro<g ref="char:EOLhyphen"/>phecy, <hi>&amp;c.</hi>
+            </head>
+            <p>MAny and Dreadful are the Judgements that have been inflicted upon this sinful Nation, therefore we ought to humble our selves before the great God of all the Earth, who yet may be intreated to turn aside his wrath, and avert the evil he has just cause to inflict upon us: Nay, when we consider his great Deliverances, how can we but say, <hi>That he has been a God of Mercy, slow to Anger, and of great goodness, abundantly pardoning trans<g ref="char:EOLhyphen"/>gression and sin, where there is the least impress of Repentance.</hi> Then since the superiour Constella<g ref="char:EOLhyphen"/>tions or Planets, with many other Configurations of the Heavens have ever since the Creation of the Uni<g ref="char:EOLhyphen"/>verse been as the Book of the <hi>Almighty</hi> set open for us <hi>to</hi> read his Wonders in, and to own his Omnipotence, let us hearken first what the greatest <hi>Astrologer</hi> of our age, in his Prophetick Judgement on this ensuing Year <hi>1681,</hi> does Prognosticate and assure us will come to pass.</p>
+            <pb n="2" facs="tcp:180272:3"/>
+            <p>HE Affirmeth that when <hi>Jupiter</hi> in the Fi<g ref="char:EOLhyphen"/>gure, or most excellent positions of <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> elevated where that Planet has most Dignity, though in opposition to his own, it does prognosticate as yet Tranquility and a right un<g ref="char:EOLhyphen"/>derstanding of Affairs amongst the Counsels of this Nation, and that the Nobility and Magistracy of the Kingdome shall Consult for the best, and continue for the most part firm to their trusts, and that there shall be a Settlement of the publick Affairs beyond the vul<g ref="char:EOLhyphen"/>gar expectation; and that they that have been former<g ref="char:EOLhyphen"/>ly of no esteem, shall be advanced to great honour by reason of their good conduct in Affairs; and that the King will be pleased to condescend to the Advance<g ref="char:EOLhyphen"/>ment of such as their deserts shall raise, and have a right understanding with his people and truly Loyal Subjects, but remove all Evil Counsel, and much dis<g ref="char:EOLhyphen"/>incourage such as seek to raise Dissentions and Evil Reports in and of the Government, and in some mea<g ref="char:EOLhyphen"/>sure hazard his own Interest for the safety and good of the publick.</p>
+            <p>The position of <hi>Saturn</hi> to <hi>Mercury</hi> in the Eleventh House, denotes that there will happen some Division, and that many Friends will fall at Variance, and many have mistrust of each other, so that hot Disputes in many places are likely to arise, and Animosities lye brooding in their breasts, the which may be much prejudicial to some notable under-hand Affairs intend<g ref="char:EOLhyphen"/>ed; Many vain and needless Fears in this Year shall be augmented by such as thirst after Innovation &amp; change
+<pb n="3" facs="tcp:180272:3"/> in Government, but in a short time they shall be dis<g ref="char:EOLhyphen"/>persed; Many shall repine and cavel at and against the Decrees and Actions of Authority, and the Popish party use their utmost endeavours to promote their declining Cause; but Heaven will frustrate their most vile Designs and make them fruitless. Nay, they will go so far as once more to attempt the Invaliditating the Kings Evidence, but fall without success; Then let the great City of <hi>London</hi> beware least Seditious A<g ref="char:EOLhyphen"/>gents spread false rumours within her Walls, and en<g ref="char:EOLhyphen"/>deavour to draw the Hearts of the people from their due Obedience; which if it should take effect, which Heaven prevent, it would cause a Jealousie between Prince and people, whilst our Adversary or common Enemy would gain advantage thereby, and perhaps it might be a great help to the pernicious Designs they have on Foot.</p>
+            <p>By the many Eclipses of both Luminaries that have happened in these two years past, it is probably Con<g ref="char:EOLhyphen"/>jectured, that several Strange Events are Prognosti<g ref="char:EOLhyphen"/>cated: <hi>Mars</hi> and <hi>Venus</hi> being Rulers of the Spring-Quarter, that there will be Wars and Tumults in many places of <hi>Europe;</hi> and that mens minds will be strangely altered, several being Imprisoned for their Il-legal proceedings; and many shall be tryed and brought to their just punishments: Some shall dye upon Scaffolds, and others upon Gibbets. The Eyes of Authority will now be open, and no longer deceived by feigned pretences: Many losses at Sea and Land, by reason of Shipwrack and Di<g ref="char:EOLhyphen"/>seases: Among Cattle shall happen Surfeits, Agues,
+<pb n="4" facs="tcp:180272:4"/> Dropsies, Consumptions, and Feavors, shall be very frequent this year, and many shall dye; and seve<g ref="char:EOLhyphen"/>ral great Changes shall happen, both in States and Empires.</p>
+            <p>Thus have we given you a particular account of many things which the Superiour Orbs do Dictate shall come to pass in the ensuing Year. Now we shall proceed to give the Reader an account of a strange Prophesie which was found in the Earth, at a place called <hi>Leek</hi> in <hi>Stafford-shire,</hi> the manner thus.</p>
+            <p>Several Labourers being set on work to Dig for Stone to pave two Streets, having dug about a 100 Load, about six yards in the Ground, found a broad Pavement, under which was an Iron Pot full of Bones and Ashes; as likewise several other Earthern Pots that contained the like; but with a touch fell all into Dust: Under them was a Grave-stone, which be<g ref="char:EOLhyphen"/>ing taken up, had under it a Pot of Oyl close co<g ref="char:EOLhyphen"/>vered, in which was a Scroule of Parchment pre<g ref="char:EOLhyphen"/>served by the same, in which was Written these Words in old English.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prophecy">
+                        <head>The Words found written on the Parchment.</head>
+                        <l>When the Year Sixteen hundred Fourtys tows is well nigh gone,</l>
+                        <l>Folk shall gang here together stane;</l>
+                        <l>When Gold is most esteem'd, Monk Men, </l>
+                        <l>then let 'um Digg here Arms deep four times Ten, </l>
+                        <p>and they shall ha' that which their sole desire, but then let them beware, </p>
+                        <l>for a<g ref="char:EOLhyphen"/>mongst hearts there shall be as Naked din,</l>
+                        <l>because ma<g ref="char:EOLhyphen"/>ny shall have their Lamps to trim, </l>
+                        <l>yet shall share the <pb n="5" facs="tcp:180272:4"/> Debonire of me gurk hay la tim; </l>
+                        <l>But first let um digg Forty Arms deep, </l>
+                        <l>and then into a Cave they shall peep, </l>
+                        <l>then let 'um take out what's in that hole,</l>
+                        <l>and give some to every poor soul; </l>
+                        <l>and whilst they digg give hungry Bread free, </l>
+                        <l>and they shall great Treasure see.</l>
+                        <closer>
+                           <signed>
+                              <hi>ANSELEM,</hi> &amp;c.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The meaning of these words are, That in the year 1680. near the end of the said year, men shall geather to that place to get Stone and digging in the Earth 40 Arms deep, shall find a Cave, in which is great Treasure, yet if they use it not according to the intent of the owner; which is, to bestow it amongst the poor, it will become a snare to them.</p>
+            <p>This <hi>Anselem</hi> as neer as can be computed, about 500 years since, was an Arch-Bishop of <hi>Canterbury,</hi> and a very great Stickler for the Pope, against the King, viz. King <hi>Stephen;</hi> and did not only Excommunicate him, but caused his Subjects to Rebell, and caused a long War to ensue between him and <hi>Henry</hi> the second, Son to <hi>Maud,</hi> the Empress Daughter to <hi>William</hi> the Conquerour; nor would he Absolve him till he had bought his Peace, and made a Golden Composition with the Bishop. Likewise, this <hi>Anselem</hi> did much contradict the opinions of many Learned Chimicks of that Age, concerning their opinions as to the Transmu<g ref="char:EOLhyphen"/>tation of Mettle; till himself at last by Study, found it to be true; and with a certain powder did change a<g ref="char:EOLhyphen"/>bundance of Silver and other fine Mettals into Gold; some of which perhaps he has hoarded in this place, where, according to Antient Chronoligies, Monestry
+<pb n="6" facs="tcp:180272:5"/> had formerly stood, but we will leave it till we hear farther, and proceed to the next, which is;</p>
+            <p>Of the so much admired <hi>Gleam,</hi> or <hi>Beam of Light,</hi> which has been, to the great amazement of many, seen in the Ascendant of the <hi>South-West</hi> point, appearing a<g ref="char:EOLhyphen"/>bout six of the Clock, and stretching it self half way to the <hi>Meridian,</hi> or <hi>Noon-tide-Circle,</hi> which is, accor<g ref="char:EOLhyphen"/>ding to Computation, about twenty Degrees, it being shaped like a Sword, shooting its sharp point upwards into the Sky; the Star or body of Light from which it proceeds, being depressed under our <hi>Horizon,</hi> and there<g ref="char:EOLhyphen"/>fore not as yet to be seen. The Stream of Light is a<g ref="char:EOLhyphen"/>bout the brightness of a Sun-beam glancing through a watery Cloud, seeming to wave sometimes, as if some motion seized it, or that it moved with the Lower Sphear. The first time that it was visible to us in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> was on Saturday the 11th. of this Instant <hi>Decemb.</hi> between six and seven of the Clock; many have passed their Conjectures upon it, but all vary in their opini<g ref="char:EOLhyphen"/>ons: some say it is a <hi>Pouler-Comet,</hi> others a Beam shot through the air from some of the Stars of the first <hi>Mag<g ref="char:EOLhyphen"/>nitude;</hi> others that it is some Beam ascendant from the Sun, depressed beneath the Earth; but I doubt all of them fall short of the true and Original cause of it; Therefore it will be the wisest way to conclude with the Hol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prophet, and say: <hi>It is the Lords doings, and it is Mavelous in our Eyes: His ways are unsearchable, and his Wonders past finding out.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
